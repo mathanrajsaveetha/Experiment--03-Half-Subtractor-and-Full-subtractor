@@ -38,38 +38,38 @@ STEP 5: End the verilog program using keyword endmodule.
 
 
 ## Program:
-/*
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: S.IYYANAR
 RegisterNumber:212222240036  
-*/
+```
 
 ## Output:
 
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![halfsubl](https://user-images.githubusercontent.com/118680259/233824055-9da2baa9-94bb-4f10-a700-3f2472638b33.png)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![fullsub](https://user-images.githubusercontent.com/118680259/233824067-9309b14b-f59b-4069-aac7-5123001498ff.png)
 ## Truthtable
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![half truth](https://user-images.githubusercontent.com/118680259/233824091-a74aa6de-3ecd-4eb0-8d70-2f19e2a1792a.png)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![full truth](https://user-images.githubusercontent.com/118680259/233824122-edd6588a-05c5-4c32-850c-64b3192f0107.png)
 
 
 
 
 ##  RTL realization
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![rtl half](https://user-images.githubusercontent.com/118680259/233824139-614281fb-7a96-418d-87cf-fa5c5a22ecae.png)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![rtl full](https://user-images.githubusercontent.com/118680259/233824142-70b4f112-0786-4353-b888-1c18ba03bc21.png)
 
 
 ## Timing diagram 
-HALF SUBTRACTOR
+## HALF SUBTRACTOR
 ![time half](https://user-images.githubusercontent.com/118680259/233824151-bd2966f5-ac1f-4296-8a84-b51c8613489a.png)
-FULL SUBTRACTOR
+## FULL SUBTRACTOR
 ![timing full sub](https://user-images.githubusercontent.com/118680259/233824165-a89cca36-92c0-4ed4-b055-95aca95f5d54.png)
 
 ## Result:
